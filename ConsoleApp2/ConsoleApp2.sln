@@ -1,4 +1,5 @@
-﻿
+$ git status
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.1972
@@ -23,3 +24,4 @@ Global
 		SolutionGuid = {8326D4FC-B94A-45D9-8C33-6E07C11CD1C9}
 	EndGlobalSection
 EndGlobal
+- git status
